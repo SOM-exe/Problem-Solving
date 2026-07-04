@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/SOM-exe/Problem-Solving/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/SOM-exe/Problem-Solving/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/SOM-exe/Problem-Solving/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
