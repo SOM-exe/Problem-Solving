@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/SOM-exe/Problem-Solving/tree/master/0326-power-of-three) |
+| [2235-add-two-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
