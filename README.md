@@ -28,5 +28,10 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/SOM-exe/Problem-Solving/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/SOM-exe/Problem-Solving/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
