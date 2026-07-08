@@ -6,11 +6,13 @@
 | ------- |
 | [0027-remove-element](https://github.com/SOM-exe/Problem-Solving/tree/master/0027-remove-element) |
 | [0198-house-robber](https://github.com/SOM-exe/Problem-Solving/tree/master/0198-house-robber) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SOM-exe/Problem-Solving/tree/master/0027-remove-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/SOM-exe/Problem-Solving/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -43,5 +46,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
