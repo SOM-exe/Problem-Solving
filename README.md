@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/SOM-exe/Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0290-word-pattern](https://github.com/SOM-exe/Problem-Solving/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0824-goat-latin](https://github.com/SOM-exe/Problem-Solving/tree/master/0824-goat-latin) |
