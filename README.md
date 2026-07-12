@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/SOM-exe/Problem-Solving/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
@@ -37,6 +38,7 @@
 | [0006-zigzag-conversion](https://github.com/SOM-exe/Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0290-word-pattern](https://github.com/SOM-exe/Problem-Solving/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 | [0824-goat-latin](https://github.com/SOM-exe/Problem-Solving/tree/master/0824-goat-latin) |
 ## Hash Table
 |  |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
