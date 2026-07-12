@@ -9,6 +9,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SOM-exe/Problem-Solving/tree/master/0860-lemonade-change) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | ------- |
 | [0290-word-pattern](https://github.com/SOM-exe/Problem-Solving/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
