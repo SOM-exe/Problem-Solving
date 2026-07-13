@@ -31,6 +31,7 @@
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/SOM-exe/Problem-Solving/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/2235-add-two-integers) |
+| [2544-alternating-digit-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/2544-alternating-digit-sum) |
 ## Recursion
 |  |
 | ------- |
