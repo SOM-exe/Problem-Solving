@@ -45,6 +45,7 @@
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 | [0824-goat-latin](https://github.com/SOM-exe/Problem-Solving/tree/master/0824-goat-latin) |
+| [0830-positions-of-large-groups](https://github.com/SOM-exe/Problem-Solving/tree/master/0830-positions-of-large-groups) |
 | [2288-apply-discount-to-prices](https://github.com/SOM-exe/Problem-Solving/tree/master/2288-apply-discount-to-prices) |
 ## Hash Table
 |  |
