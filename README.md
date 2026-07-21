@@ -12,6 +12,7 @@
 | [1184-distance-between-bus-stops](https://github.com/SOM-exe/Problem-Solving/tree/master/1184-distance-between-bus-stops) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
 |  |
 | ------- |
