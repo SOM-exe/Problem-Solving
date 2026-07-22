@@ -55,6 +55,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/SOM-exe/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2288-apply-discount-to-prices](https://github.com/SOM-exe/Problem-Solving/tree/master/2288-apply-discount-to-prices) |
+| [3146-permutation-difference-between-two-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 ## Greedy
 |  |
 | ------- |
