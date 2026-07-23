@@ -11,6 +11,7 @@
 | [0860-lemonade-change](https://github.com/SOM-exe/Problem-Solving/tree/master/0860-lemonade-change) |
 | [1184-distance-between-bus-stops](https://github.com/SOM-exe/Problem-Solving/tree/master/1184-distance-between-bus-stops) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Two Pointers
@@ -77,6 +78,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SOM-exe/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Simulation
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/SOM-exe/Problem-Solving/tree/master/1025-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
