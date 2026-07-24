@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0043-multiply-strings) |
+| [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SOM-exe/Problem-Solving/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/SOM-exe/Problem-Solving/tree/master/0633-sum-of-square-numbers) |
@@ -42,6 +43,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SOM-exe/Problem-Solving/tree/master/0326-power-of-three) |
 ## String
 |  |
@@ -109,5 +111,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
