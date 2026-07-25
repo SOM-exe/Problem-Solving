@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SOM-exe/Problem-Solving/tree/master/0326-power-of-three) |
@@ -111,6 +112,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
