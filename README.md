@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SOM-exe/Problem-Solving/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/SOM-exe/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/SOM-exe/Problem-Solving/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/SOM-exe/Problem-Solving/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -81,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SOM-exe/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
