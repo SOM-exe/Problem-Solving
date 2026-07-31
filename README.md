@@ -18,6 +18,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
+| [3169-count-days-without-meetings](https://github.com/SOM-exe/Problem-Solving/tree/master/3169-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3169-count-days-without-meetings](https://github.com/SOM-exe/Problem-Solving/tree/master/3169-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
