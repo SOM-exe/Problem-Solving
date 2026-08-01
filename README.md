@@ -136,4 +136,20 @@
 |  |
 | ------- |
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SOM-exe/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SOM-exe/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SOM-exe/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SOM-exe/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
