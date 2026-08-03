@@ -14,6 +14,7 @@
 | [1184-distance-between-bus-stops](https://github.com/SOM-exe/Problem-Solving/tree/master/1184-distance-between-bus-stops) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -115,6 +116,7 @@
 | [0043-multiply-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SOM-exe/Problem-Solving/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
+| [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 ## Brainteaser
 |  |
 | ------- |
