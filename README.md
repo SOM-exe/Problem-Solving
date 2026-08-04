@@ -67,6 +67,7 @@
 | [0824-goat-latin](https://github.com/SOM-exe/Problem-Solving/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/SOM-exe/Problem-Solving/tree/master/0830-positions-of-large-groups) |
 | [1189-maximum-number-of-balloons](https://github.com/SOM-exe/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
+| [1844-replace-all-digits-with-characters](https://github.com/SOM-exe/Problem-Solving/tree/master/1844-replace-all-digits-with-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2288-apply-discount-to-prices](https://github.com/SOM-exe/Problem-Solving/tree/master/2288-apply-discount-to-prices) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
