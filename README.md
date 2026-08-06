@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/SOM-exe/Problem-Solving/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/SOM-exe/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SOM-exe/Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SOM-exe/Problem-Solving/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/SOM-exe/Problem-Solving/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SOM-exe/Problem-Solving/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/SOM-exe/Problem-Solving/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SOM-exe/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SOM-exe/Problem-Solving/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -160,4 +163,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SOM-exe/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SOM-exe/Problem-Solving/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SOM-exe/Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
