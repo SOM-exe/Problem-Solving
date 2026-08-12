@@ -72,6 +72,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/SOM-exe/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1370-increasing-decreasing-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/SOM-exe/Problem-Solving/tree/master/1844-replace-all-digits-with-characters) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/SOM-exe/Problem-Solving/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2288-apply-discount-to-prices](https://github.com/SOM-exe/Problem-Solving/tree/master/2288-apply-discount-to-prices) |
@@ -126,6 +127,7 @@
 | [0067-add-binary](https://github.com/SOM-exe/Problem-Solving/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/SOM-exe/Problem-Solving/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Brainteaser
 |  |
 | ------- |
