@@ -79,6 +79,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SOM-exe/Problem-Solving/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SOM-exe/Problem-Solving/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2288-apply-discount-to-prices](https://github.com/SOM-exe/Problem-Solving/tree/master/2288-apply-discount-to-prices) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
