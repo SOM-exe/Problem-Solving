@@ -23,6 +23,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3169-count-days-without-meetings](https://github.com/SOM-exe/Problem-Solving/tree/master/3169-count-days-without-meetings) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/2544-alternating-digit-sum) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Recursion
 |  |
 | ------- |
