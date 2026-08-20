@@ -23,6 +23,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3169-count-days-without-meetings](https://github.com/SOM-exe/Problem-Solving/tree/master/3169-count-days-without-meetings) |
 ## Two Pointers
@@ -141,6 +142,7 @@
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SOM-exe/Problem-Solving/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Brainteaser
 |  |
 | ------- |
