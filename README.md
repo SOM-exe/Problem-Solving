@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SOM-exe/Problem-Solving/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SOM-exe/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/SOM-exe/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SOM-exe/Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SOM-exe/Problem-Solving/tree/master/0078-subsets) |
@@ -126,6 +127,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SOM-exe/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/SOM-exe/Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
