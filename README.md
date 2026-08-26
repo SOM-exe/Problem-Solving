@@ -38,6 +38,7 @@
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/SOM-exe/Problem-Solving/tree/master/0633-sum-of-square-numbers) |
+| [0696-count-binary-substrings](https://github.com/SOM-exe/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Dynamic Programming
@@ -78,6 +79,7 @@
 | [0290-word-pattern](https://github.com/SOM-exe/Problem-Solving/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
+| [0696-count-binary-substrings](https://github.com/SOM-exe/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/SOM-exe/Problem-Solving/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/SOM-exe/Problem-Solving/tree/master/0830-positions-of-large-groups) |
 | [1189-maximum-number-of-balloons](https://github.com/SOM-exe/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
