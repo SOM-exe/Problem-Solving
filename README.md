@@ -11,6 +11,7 @@
 | [0078-subsets](https://github.com/SOM-exe/Problem-Solving/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/SOM-exe/Problem-Solving/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/SOM-exe/Problem-Solving/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SOM-exe/Problem-Solving/tree/master/0561-array-partition) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/SOM-exe/Problem-Solving/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SOM-exe/Problem-Solving/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SOM-exe/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/SOM-exe/Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -169,6 +172,7 @@
 | [0078-subsets](https://github.com/SOM-exe/Problem-Solving/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SOM-exe/Problem-Solving/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SOM-exe/Problem-Solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
@@ -216,8 +220,13 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SOM-exe/Problem-Solving/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SOM-exe/Problem-Solving/tree/master/0561-array-partition) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
