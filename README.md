@@ -23,6 +23,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -62,6 +63,7 @@
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/SOM-exe/Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/SOM-exe/Problem-Solving/tree/master/1025-divisor-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/2544-alternating-digit-sum) |
@@ -174,12 +176,14 @@
 | [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SOM-exe/Problem-Solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SOM-exe/Problem-Solving/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SOM-exe/Problem-Solving/tree/master/0089-gray-code) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -229,4 +233,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
