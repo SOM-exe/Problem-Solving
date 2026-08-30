@@ -28,6 +28,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -69,6 +70,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/2235-add-two-integers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/2544-alternating-digit-sum) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Recursion
@@ -113,6 +115,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SOM-exe/Problem-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -155,6 +158,7 @@
 | [1370-increasing-decreasing-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Simulation
 |  |
 | ------- |
