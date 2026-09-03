@@ -38,6 +38,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SOM-exe/Problem-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3169-count-days-without-meetings](https://github.com/SOM-exe/Problem-Solving/tree/master/3169-count-days-without-meetings) |
+| [3701-compute-alternating-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SOM-exe/Problem-Solving/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3701-compute-alternating-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/3701-compute-alternating-sum) |
 ## Brainteaser
 |  |
 | ------- |
