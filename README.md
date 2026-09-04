@@ -34,6 +34,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SOM-exe/Problem-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -106,6 +107,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2288-apply-discount-to-prices](https://github.com/SOM-exe/Problem-Solving/tree/master/2288-apply-discount-to-prices) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
@@ -260,4 +262,20 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
