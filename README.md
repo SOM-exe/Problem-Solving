@@ -41,6 +41,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SOM-exe/Problem-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3169-count-days-without-meetings](https://github.com/SOM-exe/Problem-Solving/tree/master/3169-count-days-without-meetings) |
 | [3701-compute-alternating-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SOM-exe/Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SOM-exe/Problem-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SOM-exe/Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SOM-exe/Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
