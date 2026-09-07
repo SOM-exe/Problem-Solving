@@ -34,6 +34,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,6 +110,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2288-apply-discount-to-prices](https://github.com/SOM-exe/Problem-Solving/tree/master/2288-apply-discount-to-prices) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 ## Hash Table
