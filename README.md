@@ -37,6 +37,7 @@
 | [2446-determine-if-two-events-have-conflict](https://github.com/SOM-exe/Problem-Solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2460-apply-operations-to-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/SOM-exe/Problem-Solving/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2848-points-that-intersect-with-cars](https://github.com/SOM-exe/Problem-Solving/tree/master/2848-points-that-intersect-with-cars) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -160,6 +161,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/SOM-exe/Problem-Solving/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3169-count-days-without-meetings](https://github.com/SOM-exe/Problem-Solving/tree/master/3169-count-days-without-meetings) |
 ## Binary Search
 |  |
@@ -188,6 +190,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SOM-exe/Problem-Solving/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2460-apply-operations-to-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/SOM-exe/Problem-Solving/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/3701-compute-alternating-sum) |
 ## Brainteaser
@@ -298,4 +301,9 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/SOM-exe/Problem-Solving/tree/master/0463-island-perimeter) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/SOM-exe/Problem-Solving/tree/master/2500-delete-greatest-value-in-each-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/SOM-exe/Problem-Solving/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
