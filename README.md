@@ -46,6 +46,7 @@
 | [3169-count-days-without-meetings](https://github.com/SOM-exe/Problem-Solving/tree/master/3169-count-days-without-meetings) |
 | [3668-restore-finishing-order](https://github.com/SOM-exe/Problem-Solving/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/SOM-exe/Problem-Solving/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SOM-exe/Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
@@ -194,6 +195,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SOM-exe/Problem-Solving/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/3701-compute-alternating-sum) |
 ## Brainteaser
 |  |
@@ -218,6 +220,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SOM-exe/Problem-Solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SOM-exe/Problem-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
