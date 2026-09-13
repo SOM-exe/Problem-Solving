@@ -49,6 +49,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SOM-exe/Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/SOM-exe/Problem-Solving/tree/master/2544-alternating-digit-sum) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SOM-exe/Problem-Solving/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SOM-exe/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
