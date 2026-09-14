@@ -28,6 +28,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SOM-exe/Problem-Solving/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SOM-exe/Problem-Solving/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -112,6 +113,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/SOM-exe/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1370-increasing-decreasing-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SOM-exe/Problem-Solving/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1844-replace-all-digits-with-characters](https://github.com/SOM-exe/Problem-Solving/tree/master/1844-replace-all-digits-with-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/SOM-exe/Problem-Solving/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
@@ -135,6 +137,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1370-increasing-decreasing-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -183,6 +186,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-increasing-decreasing-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SOM-exe/Problem-Solving/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SOM-exe/Problem-Solving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SOM-exe/Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -219,6 +223,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/SOM-exe/Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0645-set-mismatch](https://github.com/SOM-exe/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SOM-exe/Problem-Solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SOM-exe/Problem-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
