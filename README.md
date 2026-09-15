@@ -21,6 +21,7 @@
 | [0645-set-mismatch](https://github.com/SOM-exe/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SOM-exe/Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0860-lemonade-change](https://github.com/SOM-exe/Problem-Solving/tree/master/0860-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/SOM-exe/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [1184-distance-between-bus-stops](https://github.com/SOM-exe/Problem-Solving/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/SOM-exe/Problem-Solving/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SOM-exe/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -62,6 +63,7 @@
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/SOM-exe/Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/SOM-exe/Problem-Solving/tree/master/0696-count-binary-substrings) |
+| [0905-sort-array-by-parity](https://github.com/SOM-exe/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
@@ -164,6 +166,7 @@
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SOM-exe/Problem-Solving/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/SOM-exe/Problem-Solving/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/SOM-exe/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/SOM-exe/Problem-Solving/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
