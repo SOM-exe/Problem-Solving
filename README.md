@@ -16,6 +16,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SOM-exe/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SOM-exe/Problem-Solving/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/SOM-exe/Problem-Solving/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/SOM-exe/Problem-Solving/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/SOM-exe/Problem-Solving/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/SOM-exe/Problem-Solving/tree/master/0645-set-mismatch) |
@@ -210,6 +211,7 @@
 | [0043-multiply-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SOM-exe/Problem-Solving/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/SOM-exe/Problem-Solving/tree/master/0495-teemo-attacking) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SOM-exe/Problem-Solving/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2460-apply-operations-to-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
