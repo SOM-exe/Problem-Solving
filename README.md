@@ -31,6 +31,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SOM-exe/Problem-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SOM-exe/Problem-Solving/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOM-exe/Problem-Solving/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SOM-exe/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
