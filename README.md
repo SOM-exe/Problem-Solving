@@ -93,6 +93,7 @@
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/SOM-exe/Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/SOM-exe/Problem-Solving/tree/master/1025-divisor-game) |
+| [1154-day-of-the-year](https://github.com/SOM-exe/Problem-Solving/tree/master/1154-day-of-the-year) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SOM-exe/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
@@ -120,6 +121,7 @@
 | [0696-count-binary-substrings](https://github.com/SOM-exe/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/SOM-exe/Problem-Solving/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/SOM-exe/Problem-Solving/tree/master/0830-positions-of-large-groups) |
+| [1154-day-of-the-year](https://github.com/SOM-exe/Problem-Solving/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/SOM-exe/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1370-increasing-decreasing-string](https://github.com/SOM-exe/Problem-Solving/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SOM-exe/Problem-Solving/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
