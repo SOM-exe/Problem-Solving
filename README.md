@@ -93,6 +93,7 @@
 | [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SOM-exe/Problem-Solving/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/SOM-exe/Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/SOM-exe/Problem-Solving/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/SOM-exe/Problem-Solving/tree/master/1154-day-of-the-year) |
