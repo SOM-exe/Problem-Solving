@@ -118,6 +118,7 @@
 | [0006-zigzag-conversion](https://github.com/SOM-exe/Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SOM-exe/Problem-Solving/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/SOM-exe/Problem-Solving/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SOM-exe/Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
@@ -145,6 +146,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/SOM-exe/Problem-Solving/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/SOM-exe/Problem-Solving/tree/master/0575-distribute-candies) |
