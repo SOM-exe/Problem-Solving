@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SOM-exe/Problem-Solving/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SOM-exe/Problem-Solving/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0205-isomorphic-strings) |
@@ -344,4 +345,12 @@
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SOM-exe/Problem-Solving/tree/master/2500-delete-greatest-value-in-each-row) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
