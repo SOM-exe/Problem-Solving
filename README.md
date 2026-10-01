@@ -22,6 +22,7 @@
 | [0645-set-mismatch](https://github.com/SOM-exe/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SOM-exe/Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SOM-exe/Problem-Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/SOM-exe/Problem-Solving/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/SOM-exe/Problem-Solving/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/SOM-exe/Problem-Solving/tree/master/0905-sort-array-by-parity) |
@@ -202,6 +203,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SOM-exe/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/SOM-exe/Problem-Solving/tree/master/0633-sum-of-square-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SOM-exe/Problem-Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/SOM-exe/Problem-Solving/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
