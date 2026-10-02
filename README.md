@@ -80,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/SOM-exe/Problem-Solving/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/SOM-exe/Problem-Solving/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/SOM-exe/Problem-Solving/tree/master/1025-divisor-game) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SOM-exe/Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SOM-exe/Problem-Solving/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/0205-isomorphic-strings) |
@@ -259,6 +261,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/SOM-exe/Problem-Solving/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SOM-exe/Problem-Solving/tree/master/0089-gray-code) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -355,4 +358,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
