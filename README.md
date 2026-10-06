@@ -35,6 +35,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SOM-exe/Problem-Solving/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOM-exe/Problem-Solving/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SOM-exe/Problem-Solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SOM-exe/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SOM-exe/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SOM-exe/Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -74,6 +75,7 @@
 | [0696-count-binary-substrings](https://github.com/SOM-exe/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/SOM-exe/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SOM-exe/Problem-Solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/SOM-exe/Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/SOM-exe/Problem-Solving/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -194,6 +196,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOM-exe/Problem-Solving/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SOM-exe/Problem-Solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/SOM-exe/Problem-Solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SOM-exe/Problem-Solving/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/SOM-exe/Problem-Solving/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -208,6 +211,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SOM-exe/Problem-Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/SOM-exe/Problem-Solving/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SOM-exe/Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SOM-exe/Problem-Solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Counting
 |  |
 | ------- |
