@@ -255,6 +255,7 @@
 | [0067-add-binary](https://github.com/SOM-exe/Problem-Solving/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/SOM-exe/Problem-Solving/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SOM-exe/Problem-Solving/tree/master/0089-gray-code) |
+| [0191-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SOM-exe/Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
@@ -367,4 +368,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SOM-exe/Problem-Solving/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
