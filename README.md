@@ -255,6 +255,7 @@
 | [0067-add-binary](https://github.com/SOM-exe/Problem-Solving/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/SOM-exe/Problem-Solving/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SOM-exe/Problem-Solving/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SOM-exe/Problem-Solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SOM-exe/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
@@ -371,5 +372,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
