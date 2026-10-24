@@ -374,4 +374,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SOM-exe/Problem-Solving/tree/master/0191-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/SOM-exe/Problem-Solving/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
