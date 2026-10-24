@@ -377,5 +377,6 @@
 ## Database
 |  |
 | ------- |
+| [1148-article-views-i](https://github.com/SOM-exe/Problem-Solving/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/SOM-exe/Problem-Solving/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
